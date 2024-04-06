@@ -1,0 +1,1 @@
+Performed exploratory data analysis (EDA) and data manipulation tasks on adventure park's visitor dataset to derive insights and prepare the data for further analysis. Additionally, create informative visualizations to understand visitor behavior and characteristics.
